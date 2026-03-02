@@ -1,0 +1,21 @@
+/* Add CSS Styling */
+.red-group {
+  background-color: rgba(255, 0, 0, 0.3);
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.red-group.larger-text {
+  font-size: 32px;
+}
+
+#blue-text {
+  color: blue;
+  font-size: 40px;
+}
+
+#green-text {
+  font-weight: bold;
+  background-color: rgba(0, 255, 0, 0.8);
+  font-size: 24px;
+}
