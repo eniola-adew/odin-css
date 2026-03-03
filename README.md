@@ -5,6 +5,7 @@ A collection of CSS exercises and projects completed as part of The Odin Project
 ## What I Practiced
 
 - Selectors: Grouping, Chaining
+- CSS Cascade
 
 ## Tools
 
