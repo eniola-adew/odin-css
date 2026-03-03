@@ -7,6 +7,7 @@ A collection of CSS exercises and projects completed as part of The Odin Project
 - Selectors: Grouping, Chaining
 - CSS Cascade
 - Margin & Padding
+- Flexbox
 
 ## Tools
 
